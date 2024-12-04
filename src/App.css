@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-image: url("tickets.png");
 }
 
 .App-logo {
@@ -22,6 +23,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url("tickets.png");
 }
 
 .App-link {
@@ -32,6 +34,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
