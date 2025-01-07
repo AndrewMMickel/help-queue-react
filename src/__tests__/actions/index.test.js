@@ -1,5 +1,5 @@
 import * as actions from './../../actions';
-import * as c from './../actions/ActionTypes';
+import * as c from './../../actions/ActionTypes'
 
 describe('Help Queue actions', () => {
     it('deleteTicket should create DELETE_TICKET action', () => {

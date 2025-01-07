@@ -1,3 +1,4 @@
+import * as c from './../actions/ActionTypes';
 export const deleteTicket = id => ({
     type: 'DELETE_TICKET',
     id
